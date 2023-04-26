@@ -16,7 +16,7 @@
 - JavaScript
 - Git/GitHub
 
-[Clique aqui para acessar o projeto](https://billcarioca.github.io/desafio-js-developer-pokedex/)
+[Clique aqui para acessar o projeto](https://billcarioca.github.io/Desafio-js-pokedex/)
 
 # Contato
 [Linkedin](https://www.linkedin.com/in/billcarioca/)
